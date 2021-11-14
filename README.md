@@ -1,5 +1,5 @@
 
-## OpenBook  - A E-Commerce for Book Selling Progressive Web App
+## OpenBook  - E-Commerce Book Selling Progressive Web App
 
 
 #### `How to run locally?`
